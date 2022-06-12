@@ -1,0 +1,20 @@
+{
+  "name": "todo-mvc",
+  "version": "1.0.0",
+  "description": "- Add TODO\r - Complete TODO\r - Remove TODO\r - Filter Completed TODOs",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dariojularic/todo-mvc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dariojularic/todo-mvc/issues"
+  },
+  "homepage": "https://github.com/dariojularic/todo-mvc#readme"
+}
